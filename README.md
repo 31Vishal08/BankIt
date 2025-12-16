@@ -1,5 +1,3 @@
-## Working on it....
-
 # BankIt
 
 BankIt is a full-featured banking system developed using Java and Spring Boot. It offers essential banking operations like credit, debit, and transfer to manage transactions efficiently. The system includes automated email notifications for each transaction, providing users with real-time updates. Additionally, users can access transaction history and receive PDF statements via email, enhancing account management.
@@ -92,5 +90,6 @@ BankIt is a full-featured banking system developed using Java and Spring Boot. I
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
+
 
 
